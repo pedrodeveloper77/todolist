@@ -1,1 +1,2 @@
-*.rb linguist-language=Java
+assets/css/* linguist-vendored
+style.css linguist-vendored=false
